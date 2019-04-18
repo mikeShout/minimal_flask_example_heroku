@@ -1,4 +1,3 @@
-pip install flashtext
 from flashtext.keyword import KeywordProcessor
 import pickle
 
